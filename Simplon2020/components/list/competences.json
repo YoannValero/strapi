@@ -1,0 +1,51 @@
+{
+  "connection": "default",
+  "collectionName": "components_list_competences",
+  "info": {
+    "name": "metier",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "maquetter": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "interfaceweb": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "interfacedynamique": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "ecommerce": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "creerbdd": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "devaccesdonnee": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "devbackend": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "backecommerce": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    }
+  }
+}

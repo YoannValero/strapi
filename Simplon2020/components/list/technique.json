@@ -1,0 +1,56 @@
+{
+  "connection": "default",
+  "collectionName": "components_list_techniques",
+  "info": {
+    "name": "technique",
+    "icon": "align-right"
+  },
+  "options": {},
+  "attributes": {
+    "html": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "css": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "js": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "jsavance": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "php": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "sql": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "react": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "angular": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "nodejs": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    }
+  }
+}

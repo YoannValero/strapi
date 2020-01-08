@@ -1,0 +1,23 @@
+{
+  "connection": "default",
+  "collectionName": "ficheprofils",
+  "info": {
+    "name": "ficheprofil"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "compmetier": {
+      "type": "component",
+      "repeatable": true,
+      "component": "list.competences"
+    },
+    "comptech": {
+      "type": "component",
+      "repeatable": true,
+      "component": "list.technique"
+    }
+  }
+}

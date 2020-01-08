@@ -1,0 +1,47 @@
+{
+  "connection": "default",
+  "collectionName": "components_nvieau_niveaus",
+  "info": {
+    "name": "niveau",
+    "icon": "battery-half"
+  },
+  "options": {},
+  "attributes": {
+    "Comprendre": {
+      "type": "integer",
+      "max": 3,
+      "min": 0,
+      "default": 1
+    },
+    "Duppliquer1": {
+      "type": "integer",
+      "max": 3,
+      "min": 0,
+      "default": 1
+    },
+    "Analyser": {
+      "type": "integer",
+      "max": 3,
+      "min": 0,
+      "default": 1
+    },
+    "Evaluer": {
+      "type": "integer",
+      "max": 3,
+      "min": 0,
+      "default": 1
+    },
+    "Concevoir": {
+      "type": "integer",
+      "max": 3,
+      "min": 0,
+      "default": 1
+    },
+    "Inventer": {
+      "type": "integer",
+      "max": 3,
+      "min": 0,
+      "default": 1
+    }
+  }
+}

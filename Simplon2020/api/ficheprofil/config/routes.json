@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/ficheprofils",
+      "handler": "ficheprofil.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/ficheprofils/count",
+      "handler": "ficheprofil.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/ficheprofils/:id",
+      "handler": "ficheprofil.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/ficheprofils",
+      "handler": "ficheprofil.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/ficheprofils/:id",
+      "handler": "ficheprofil.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/ficheprofils/:id",
+      "handler": "ficheprofil.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
