@@ -7,42 +7,47 @@
   },
   "options": {},
   "attributes": {
-    "maquetter": {
+    "maquetter_une_application": {
       "type": "component",
       "repeatable": false,
       "component": "list.niveau"
     },
-    "interfaceweb": {
+    "r8aliser_une_interface_utilisateur_web_statique_et_adaptable": {
       "type": "component",
       "repeatable": false,
       "component": "list.niveau"
     },
-    "interfacedynamique": {
+    "d8velopper_une_interface_utilisateur_dynamique": {
       "type": "component",
       "repeatable": false,
       "component": "list.niveau"
     },
-    "ecommerce": {
+    "r8aliser_une_interface_utilisateur_avec_une_solution_de_gestion_de_contenu_ou_Ecommerce": {
       "type": "component",
       "repeatable": false,
       "component": "list.niveau"
     },
-    "creerbdd": {
+    "cr8er_une_base_de_donn8es": {
       "type": "component",
       "repeatable": false,
       "component": "list.niveau"
     },
-    "devaccesdonnee": {
+    "d8velopper_les_composants_d7acc9s_aux_donn8es": {
       "type": "component",
       "repeatable": false,
       "component": "list.niveau"
     },
-    "devbackend": {
+    "d8velopper_la_partie_back_end_d7une_application_web_ou_web_mobile": {
       "type": "component",
       "repeatable": false,
       "component": "list.niveau"
     },
-    "backecommerce": {
+    "elaborer_et_mettre_en_oeuvre_des_composants_dans_une_application_de_gestion_de_contenu_ou_Ecommerce": {
+      "type": "component",
+      "repeatable": false,
+      "component": "list.niveau"
+    },
+    "anglais": {
       "type": "component",
       "repeatable": false,
       "component": "list.niveau"

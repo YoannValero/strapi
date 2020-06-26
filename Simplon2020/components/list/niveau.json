@@ -7,41 +7,38 @@
   },
   "options": {},
   "attributes": {
-    "Comprendre": {
+    "comprendre": {
       "type": "integer",
+      "default": 1,
       "max": 3,
-      "min": 0,
-      "default": 1
+      "min": 1
     },
-    "Duppliquer1": {
+    "dupliquer": {
       "type": "integer",
+      "default": 1,
       "max": 3,
-      "min": 0,
-      "default": 1
+      "min": 1
     },
     "Analyser": {
       "type": "integer",
+      "default": 1,
       "max": 3,
-      "min": 0,
-      "default": 1
+      "min": 1
     },
-    "Evaluer": {
+    "evaluer": {
       "type": "integer",
-      "max": 3,
-      "min": 0,
-      "default": 1
+      "default": 1,
+      "max": 3
     },
-    "Concevoir": {
+    "concevoir": {
       "type": "integer",
-      "max": 3,
-      "min": 0,
-      "default": 1
+      "default": 1,
+      "max": 3
     },
-    "Inventer": {
+    "inventer": {
       "type": "integer",
-      "max": 3,
-      "min": 0,
-      "default": 1
+      "default": 1,
+      "max": 3
     }
   }
 }

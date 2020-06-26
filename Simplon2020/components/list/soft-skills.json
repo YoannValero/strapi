@@ -1,56 +1,51 @@
 {
   "connection": "default",
-  "collectionName": "components_list_techniques",
+  "collectionName": "components_list_soft_skills",
   "info": {
-    "name": "technique",
-    "icon": "align-right"
+    "name": "soft_skills",
+    "icon": "air-freshener"
   },
   "options": {},
   "attributes": {
-    "html": {
-      "type": "integer",
+    "fiable": {
       "default": 1,
-      "max": 18
+      "type": "integer",
+      "max": 5
     },
-    "css": {
+    "organis8": {
       "type": "integer",
       "default": 1,
-      "max": 18
+      "max": 5
     },
-    "javascript": {
+    "disponible": {
       "type": "integer",
       "default": 1,
-      "max": 18
+      "max": 5
     },
-    "js_poo": {
+    "r8flexif": {
       "type": "integer",
       "default": 1,
-      "max": 18
+      "max": 5
     },
-    "php": {
+    "cr8atif": {
       "type": "integer",
       "default": 1,
-      "max": 18
+      "max": 5
     },
-    "sql": {
+    "leader_ship": {
       "type": "integer",
       "default": 1,
-      "max": 18
+      "max": 5
     },
-    "react": {
+    "curieux": {
       "type": "integer",
       "default": 1,
-      "max": 18
+      "max": 5
     },
-    "angular": {
+    "ind8pendant": {
       "type": "integer",
       "default": 1,
-      "max": 18
-    },
-    "nodejs": {
-      "type": "integer",
-      "default": 1,
-      "max": 18
+      "max": 5
     }
   }
 }
